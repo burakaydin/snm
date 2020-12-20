@@ -9,7 +9,7 @@ output:
     reveal_options:
       slideNumber: true
       previewLinks: true
-author: DOÇ. DR. BURAK AYDIN
+author: DOÇ. DR. BURAK AYDIN - EGE ÜNİVERSİTESİ
 
 ---
 
