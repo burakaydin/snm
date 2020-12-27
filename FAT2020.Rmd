@@ -50,13 +50,13 @@ author: DOÇ. DR. BURAK AYDIN - EGE ÜNİVERSİTESİ
 -  <img src="OSC2015.png" width="700"> 
 
 
-## SİZCE TEKRARLANABİLİRLİK KRİZİ VAR MI?
+## SİZCE DÜNYADA TEKRARLANABİLİRLİK KRİZİ VAR MI?
 
 - Üç seçenekten birini kullanabilirsiniz
 
   + [Link](https://www.menti.com/wdwgzd68a1) 
 
-  + www.menti.com adresinde  11 95 50 5 kodu
+  + www.menti.com adresinde  76 41 16 0 kodu
 
   + <img src="mentiqr.png" width="300">
 
@@ -65,6 +65,13 @@ author: DOÇ. DR. BURAK AYDIN - EGE ÜNİVERSİTESİ
 ## NATURE TEKRARLANABİLİRLİK ANKETİ
 
 <img src="Nature2016.png" width="800">
+
+::: notes
+%52 kesinlikle evet
+%38 evet yani toplam %90
+%7 bilmiyorum
+Toplam 1576 katılımcı
+:::
 
 ## FAKTÖR ANALİZİ 
 
@@ -87,7 +94,7 @@ FA yapı geçerliği için yeterli mi?
 
 ## YANIT ARANAN SORULAR
 
-- S1. Çalışmalarda evren tanımı ve örneklem seçimi
+- S1. Çalışmalarda evren tanımı ve örneklem seçimi nedir?
 - S2. Örneklem büyüklüğü, soru ve faktör sayıları nelerdir?
 - S3. Kayıp veriler nasıl ele alınmıştır?
 - S4. Hangi yazılımlar kullanılmıştır?
@@ -140,6 +147,7 @@ Boş bırakmamaya zorlamak? Xiao, Liu & Li 2017
 
 ::: notes
 %69'u 5'li Likert sonra 3'lü Likert.
+Tahminleyici önemli hem kategori doğa hem etkili gözlemlere direnç.
 :::
 
 ## S6-UYUM
@@ -174,11 +182,14 @@ OSF benzeri Tubitak platformu
 - Örnek araçlar <https://www.parinc.com/Products/PARiConnect>
 - Şeffaflık
 
-
+::: notes
+Şeffaflık, veri atıldı mı?
+Outlier ne oldu?
+:::
 
 ## TEŞEKKÜRLER
 
 - Sorular?
 - <https://www.aydinburak.net>
-- Sunum RStudio paketi revealjs Hattab ve Allaire (2017)
+- Sunum RStudio paketi revealjs ile hazırlanmıştır (Hattab & Allaire, 2017)
  
